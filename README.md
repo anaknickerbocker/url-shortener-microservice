@@ -14,7 +14,7 @@
 
 example: `POST [project_url]/api/shorturl/new` - `https://www.google.com`
 
-<form action="api/shorturl/new" method="POST"><label for="url_input">URL to be shortened</label> <input id="url_input" type="text" name="url" value="https://www.freecodecamp.com"> <input type="submit" value="POST URL"></form>
+[https://island-nail.glitch.me](https://island-nail.glitch.me)
 
 ### Example Usage:
 
@@ -24,10 +24,4 @@ example: `POST [project_url]/api/shorturl/new` - `https://www.google.com`
 
 https://freecodecamp.com
 
-</div>
-
-<div class="footer">
-
-by [freeCodeCamp](http://www.freecodecamp.com)
-
-</div>
+[freeCodeCamp](https://www.freecodecamp.com)
